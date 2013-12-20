@@ -11,3 +11,5 @@ Now we're ready to generate your uberjar:
     Created /home/phil/src/leiningen/my-stuff/target/my-stuff-0.1.0-SNAPSHOT-standalone.jar/src/leiningen/my-stuff/target/my-stuff-0.1.0-SNAPSHOT-standalone.jar
 
 This creates a single jar file that contains the contents of all your
+
+[WebSampleService](https://github.com/rwth-acis/LAS2peer-WebSample-Service)
